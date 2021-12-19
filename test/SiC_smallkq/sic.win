@@ -1,0 +1,10 @@
+begin projections
+ Si:sp3
+end projections
+num_wann =   4
+iprint =   2
+dis_win_max =    12.000000000000
+dis_froz_max =     7.000000000000
+num_iter =     300
+write_bvec = .true.
+ write_hr = .true.
